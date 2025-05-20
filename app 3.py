@@ -32,7 +32,7 @@ st.image(logo, width=200)
 # with st.sidebar:
 #  st.title("Carica i tuoi documenti")
 #  file = st.file_uploader("Carica il tuo file", type="pdf")
-file = "Costituzione_della_Repubblica_italiana.pdf"
+file = "ilovepdf_merged.pdf"
 
 from PyPDF2 import PdfReader
 
